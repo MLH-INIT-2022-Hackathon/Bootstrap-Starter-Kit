@@ -1,6 +1,6 @@
 # Bootstrap Starter Kit
-Created: 01/07/2021
-Updated: 02/07/2021
+Created: 01/07/2021\
+Updated: 02/07/2021\
 Author: Michelle Loh
 
 This is a starter kit that helps people to get started with Bootstrap by creating a website!
